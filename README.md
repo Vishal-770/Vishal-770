@@ -4,6 +4,7 @@
 - Frontend & Backend Web Development
 - React.js & JavaScript
 - Hackathons & Tech Events
+- Node & Express
 
 ## 🌱 Currently Learning
 - Full-Stack Development with React & Node.js
