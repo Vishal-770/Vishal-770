@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👀 Interests<br>- Frontend & Backend Web Development<br>- React.js & JavaScript<br>- Hackathons & Tech Events<br>- Node & Express<br><br> 🌱 Currently Learning<br>- Full-Stack Development with React & Node.js<br>- Backend & Database Integration<br><br>## 💞️ Looking to Collaborate On<br>- Open-source projects<br>- Web applications<br>- Hackathon teams<br><br> 📫 How to Reach Me<br>- LinkedIn: [Vishal Prabhu](https://www.linkedin.com/in/vishal-prabhu-130b1a323/)<br>- GitHub: [Vishal-770](https://github.com/Vishal-770)<br><br> 😄 Pronouns<br>- He/Him<br><br> ⚡ Fun Fact<br>- I love exploring new web technologies and competing in hackathons!<br>
+ 👀 Interests<br>- Frontend & Backend Web Development<br>- React.js & JavaScript<br>- Hackathons & Tech Events<br>- Node & Express<br><br> 🌱 Currently Learning<br>- Full-Stack Development with React & Node.js<br>- Backend & Database Integration<br><br>## 💞️ Looking to Collaborate On<br>- Open-source projects<br>- Web applications<br>- Hackathon teams<br><br> 📫 How to Reach Me<br>- LinkedIn: [Vishal Prabhu](https://www.linkedin.com/in/vishal-prabhu-130b1a323/)<br>- GitHub: [Vishal-770](https://github.com/Vishal-770)<br><br> 😄 Pronouns<br>- He/Him<br><br> ⚡ Fun Fact<br>- I love exploring new web technologies and competing in hackathons!<br>
 
 
 🌐 Socials:
