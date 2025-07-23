@@ -11,7 +11,7 @@
   <a href="https://twitter.com/vishal_7707" target="blank">
     <img src="https://img.shields.io/twitter/follow/vishal_7707?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1da1f2&logoColor=white" alt="vishal_7707" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-00d9ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-00d9ff?style=for-the-badge" />
 </p>
 
 <div align="center">
