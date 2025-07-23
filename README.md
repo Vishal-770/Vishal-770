@@ -47,10 +47,28 @@ console.log("Always learning, always building 🚀");
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishal-770&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=6" />
+
+| 🎯 **Focus Areas** | 📊 **Expertise Level** | 🔥 **Current Projects** |
+|:------------------:|:----------------------:|:------------------------:|
+| React Ecosystem | ████████░░ 80% | Component Libraries |
+| Next.js Development | ███████░░░ 70% | Full-Stack Apps |
+| TypeScript | ████████░░ 80% | Type-Safe Solutions |
+| UI/UX Design | ██████░░░░ 60% | Modern Interfaces |
+| Performance Optimization | ███████░░░ 70% | Core Web Vitals |
+
+</div>
+
+<div align="center">
+
+### 🎨 **Code Craftsmanship Principles**
+![Clean Code](https://img.shields.io/badge/Clean%20Code-Expert-success?style=for-the-badge&logo=code&logoColor=white)
+![Performance](https://img.shields.io/badge/Performance-Optimized-orange?style=for-the-badge&logo=speedtest&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Design-blue?style=for-the-badge&logo=responsive&logoColor=white)
+![Accessibility](https://img.shields.io/badge/A11Y-Compliant-green?style=for-the-badge&logo=accessibility&logoColor=white)
+
 </div>
 
 ## 🌐 Connect With Me
@@ -161,18 +179,87 @@ graph TD
 
 </div>
 
-## 🚀 What I'm Building
-
-- **Modern Web Applications** with React & Next.js
-- **Scalable Component Libraries** using ShadCN UI & Tailwind
-- **Full-Stack Solutions** with Node.js and modern databases
-- **Performance-Optimized** frontends with advanced React patterns
-- **Type-Safe Applications** leveraging TypeScript throughout the stack
-
-## 📈 Contribution Graph
+## 🚀 Featured Projects & Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vishal-770/vishal-770/output/snake.svg" alt="Snake animation" />
+
+### 🎨 **Recent Work Highlights**
+
+```ascii
+┌─────────────────────────────────────────────────────────┐
+│  🌟 Modern Web Applications                            │
+│  • React 18 with Concurrent Features                   │
+│  • Next.js 13+ with App Router                        │
+│  • TypeScript for Type Safety                         │
+│  • Performance-First Development                       │
+└─────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────┐
+│  🎯 Component Architecture                             │
+│  • Reusable Component Libraries                        │
+│  • Design System Implementation                        │
+│  • ShadCN/UI & Radix Primitives                       │
+│  • Responsive & Accessible Design                      │
+└─────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────┐
+│  ⚡ Performance Optimization                           │
+│  • Bundle Size Optimization                            │
+│  • Code Splitting & Lazy Loading                       │
+│  • Image & Resource Optimization                       │
+│  • Core Web Vitals Improvement                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+## 📈 Development Journey
+
+<div align="center">
+
+| **Technology** | **Experience** | **Projects** | **Proficiency** |
+|:--------------:|:--------------:|:------------:|:---------------:|
+| **React.js** | 2+ Years | 15+ Projects | ████████░░ |
+| **Next.js** | 1.5+ Years | 10+ Projects | ███████░░░ |
+| **TypeScript** | 2+ Years | 12+ Projects | ████████░░ |
+| **Node.js** | 1+ Year | 8+ Projects | ██████░░░░ |
+| **MongoDB** | 1+ Year | 6+ Projects | ██████░░░░ |
+
+### 🔥 **Current Focus Areas**
+- Advanced React Patterns (Compound Components, Render Props)
+- Next.js App Router & Server Components  
+- Full-Stack Development with Node.js
+- Database Design & Optimization
+- System Design & Architecture
+
+</div>
+
+## 🎨 Code Quality Metrics
+
+<div align="center">
+
+```javascript
+// My Development Standards
+const codeQuality = {
+  readability: "Always prioritize clear, self-documenting code",
+  performance: "Optimize for Core Web Vitals and user experience", 
+  testing: "Write tests that give confidence, not just coverage",
+  accessibility: "Build for everyone, not just some users",
+  maintainability: "Code should be easy to change and extend"
+};
+
+// Philosophy in Action
+const buildFeature = (requirements) => {
+  const solution = designFirst(requirements)
+    .then(implementWithTesting)
+    .then(optimizePerformance)
+    .then(ensureAccessibility)
+    .then(documentThoroughly);
+    
+  return solution;
+};
+```
+
 </div>
 
 ---
@@ -183,7 +270,10 @@ graph TD
 
 ![Open Source](https://img.shields.io/badge/Open%20Source-💚-success.svg?style=for-the-badge)
 ![Always Learning](https://img.shields.io/badge/Always-Learning-blue.svg?style=for-the-badge)
+![Code Quality](https://img.shields.io/badge/Code%20Quality-First-orange.svg?style=for-the-badge)
 
 **Thanks for visiting! Let's build something extraordinary together! 🚀**
+
+⭐ **Fun Fact:** I believe every line of code should serve a purpose and every feature should solve a real problem!
 
 </div>
