@@ -47,24 +47,10 @@ console.log("Always learning, always building 🚀");
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🏆 Achievements & Milestones
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-### 📈 Coding Journey
-```
-2024 ████████████████████████████████████████ 100% Growth in React/Next.js
-2024 ██████████████████████████████████████   95% TypeScript Mastery
-2024 █████████████████████████████████████    90% Full-Stack Development
-2024 ████████████████████████████████████     85% Modern State Management
-```
-
-### 🎯 Focus Areas This Year
-![React](https://img.shields.io/badge/React_Mastery-Expert-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js_Deep_Dive-Advanced-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript_Pro-Professional-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Performance](https://img.shields.io/badge/Performance_Optimization-Focused-FF6B6B?style=flat-square&logo=lighthouse&logoColor=white)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=vishal-770&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=6" />
 </div>
 
 ## 🌐 Connect With Me
@@ -134,37 +120,6 @@ console.log("Always learning, always building 🚀");
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-### 📈 Performance Metrics
-<table>
-<tr>
-<td width="50%">
-
-**📊 Language Usage**
-```javascript
-TypeScript  ████████████████████ 40%
-JavaScript  ████████████████░░░░ 35%
-CSS         ██████░░░░░░░░░░░░░░ 15%
-HTML        ████░░░░░░░░░░░░░░░░ 10%
-```
-
-</td>
-<td width="50%">
-
-**🎯 Project Focus**
-```javascript
-React/Next.js   ██████████████████████ 55%
-Full-Stack      ████████████████░░░░░░ 25%
-UI Components   ██████████░░░░░░░░░░░░ 15%
-Learning        ██████░░░░░░░░░░░░░░░░ 5%
-```
-
-</td>
-</tr>
-</table>
-
-### 🚀 Development Statistics
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishal-770&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-770&layout=compact&langs_count=8&theme=algolia"/>
 </div>
@@ -173,11 +128,8 @@ Learning        ██████░░░░░░░░░░░░░░░�
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-770&theme=algolia" />
 </div>
 
-### 🎨 Contribution Heatmap
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-770&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
 </div>
 
 <div align="center">
@@ -217,57 +169,10 @@ graph TD
 - **Performance-Optimized** frontends with advanced React patterns
 - **Type-Safe Applications** leveraging TypeScript throughout the stack
 
-## 📊 Coding Activity
+## 📈 Contribution Graph
 
 <div align="center">
-
-### 🔥 Current Streak & Stats
-<table>
-<tr>
-<td>
-
-**🏃‍♂️ This Week's Focus**
-```
-React Components     ████████████░ 85%
-TypeScript Types     ███████████░░ 78%
-Next.js Projects     ████████████░ 82%
-UI/UX Implementation ██████████░░░ 71%
-```
-
-</td>
-<td>
-
-**📈 Monthly Goals**
-- ✅ Complete 2 full-stack projects
-- 🔄 Master advanced React patterns
-- 📚 Deep dive into Next.js 14
-- 🎯 Contribute to open source
-
-</td>
-</tr>
-</table>
-
-### 💻 Weekly Coding Activity
-```
-Monday    ████████████████████████████ 98%  React Development
-Tuesday   ██████████████████████████   92%  TypeScript Projects  
-Wednesday ████████████████████████████ 88%  Next.js Features
-Thursday  ██████████████████████████   85%  Component Libraries
-Friday    ████████████████████████████ 95%  Full-Stack Integration
-Saturday  ██████████████████████       75%  Open Source Contrib
-Sunday    ████████████████████         65%  Learning & Planning
-```
-
-### 🎨 Project Types Distribution
-<div align="center">
-
-![Frontend](https://img.shields.io/badge/Frontend_Projects-45%25-61DAFB?style=for-the-badge&logo=react)
-![Full Stack](https://img.shields.io/badge/Full_Stack-30%25-00D9FF?style=for-the-badge&logo=javascript)
-![Components](https://img.shields.io/badge/Component_Libraries-15%25-38B2AC?style=for-the-badge&logo=tailwindcss)
-![Open Source](https://img.shields.io/badge/Open_Source-10%25-success?style=for-the-badge&logo=github)
-
-</div>
-
+  <img src="https://raw.githubusercontent.com/vishal-770/vishal-770/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
