@@ -127,4 +127,241 @@ backend:
   
 infrastructure:
   deployment: ["Vercel", "Railway", "Fly.io", "AWS", "Docker"]
-  web3_infra: ["Alchemy", "Infura
+  web3_infra: ["Alchemy", "Infura", "QuickNode", "The Graph"]
+  monitoring: ["Tenderly", "Defender", "Etherscan APIs"]
+```
+
+</details>
+
+## 📊 GitHub Analytics & Contribution Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishal-770&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-770&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-770&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"/>
+
+[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-770&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/vishal-770)
+
+</div>
+
+## 🏗️ Web3 Architecture Philosophy
+
+```mermaid
+graph TB
+    subgraph "🌐 Frontend Layer"
+        A[⚛️ React/Next.js] --> B[🎨 Tailwind UI]
+        A --> C[🔗 Web3 Connectors]
+        C --> D[📱 Wallet Integration]
+    end
+    
+    subgraph "⛓️ Blockchain Layer"
+        E[📜 Smart Contracts] --> F[🔐 Security Patterns]
+        E --> G[⛽ Gas Optimization]
+        E --> H[🧪 Comprehensive Testing]
+    end
+    
+    subgraph "🛠️ DevOps & Tools"
+        I[🔨 Hardhat/Foundry] --> J[📊 Contract Analytics]
+        I --> K[🚀 CI/CD Pipelines]
+        I --> L[📈 Performance Monitoring]
+    end
+    
+    A --> E
+    E --> I
+    
+    style A fill:#61dafb,stroke:#21568b,stroke-width:2px,color:#000
+    style E fill:#363636,stroke:#000,stroke-width:2px,color:#fff
+    style I fill:#f7df1e,stroke:#d4ac0d,stroke-width:2px,color:#000
+```
+
+## 🚀 What I'm Building in Web3
+
+```typescript
+interface CurrentWeb3Projects {
+  dapps: {
+    "defi-dashboard": {
+      stack: ["Next.js 14", "TypeScript", "wagmi", "Solidity"];
+      status: "🚧 Active Development";
+      features: ["Multi-DEX aggregation", "Portfolio tracking", "Yield farming"];
+      testnet: "Sepolia & Polygon Mumbai";
+    };
+    
+    "nft-marketplace": {
+      stack: ["React", "ethers.js", "IPFS", "OpenZeppelin"];
+      status: "🎨 UI Polish Phase";
+      description: "Gas-efficient NFT marketplace with lazy minting";
+      chains: ["Ethereum", "Polygon"];
+    };
+  };
+  
+  smart_contracts: {
+    "yield-vault": {
+      language: "Solidity ^0.8.20";
+      patterns: ["Proxy", "AccessControl", "ReentrancyGuard"];
+      status: "🔐 Security Audit Ready";
+      gas_optimizations: "~30% reduction vs standard implementations";
+    };
+    
+    "dao-governance": {
+      features: ["Timelock", "Delegation", "Proposal execution"];
+      testing: "100% coverage with Foundry";
+      status: "📋 Documentation Phase";
+    };
+  };
+  
+  learning_projects: {
+    "mev-bot": "🤖 MEV strategies & flashloan arbitrage",
+    "zk-proofs": "🔐 Learning Circom & zk-SNARKs",
+    "layer2": "🌊 Optimism & Arbitrum integration patterns"
+  };
+  
+  contributions: {
+    "web3-ui-kit": "🎨 Reusable Web3 React components",
+    "contract-templates": "📜 Audited Solidity templates",
+    "tutorials": "✍️ Web2 to Web3 developer guides"
+  };
+}
+```
+
+## 🎯 Development Focus Areas
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**⛓️ Smart Contract Mastery**
+- Advanced Solidity patterns
+- Gas optimization techniques
+- Security-first development
+- Comprehensive testing strategies
+- DeFi protocol integration
+
+</td>
+<td valign="top" width="33%">
+
+**🌐 DApp Development**
+- Web3 wallet integration
+- Transaction UX optimization
+- Real-time blockchain data
+- Mobile-responsive Web3 UIs
+- Cross-chain compatibility
+
+</td>
+<td valign="top" width="33%">
+
+**🚀 Full Stack Excellence**
+- Modern React architecture
+- TypeScript best practices
+- Performance optimization
+- Accessibility (WCAG 2.1 AA)
+- CI/CD for Web3 projects
+
+</td>
+</tr>
+</table>
+
+## 🌟 Web3 Expertise Areas
+
+```bash
+$ git log --oneline --grep="feat\|fix\|refactor" --since="2024-01-01"
+```
+
+<div align="center">
+
+| 🏷️ **Smart Contracts** | 🌐 **DApp Frontend** | 🛠️ **Tools & Infra** |
+|:-----------------------:|:--------------------:|:--------------------:|
+| ✅ ERC-20/721/1155 Tokens | ✅ Wallet Connections | ✅ Hardhat/Foundry Setup |
+| ✅ DeFi Protocols | ✅ Transaction Handling | ✅ Testing Frameworks |
+| ✅ Upgradeable Contracts | ✅ Web3 State Management | ✅ Gas Profiling |
+| ✅ Access Control | ✅ Error Handling | ✅ Contract Verification |
+| ⏳ MEV & Flashloans | ✅ Mobile Web3 UX | ⏳ Multi-chain Deploy |
+| ⏳ ZK Integration | ⏳ Web3 Analytics | ⏳ Automated Audits |
+
+**Legend:** ✅ Proficient | ⏳ Learning | 🎯 Next Target
+
+</div>
+
+## 🎮 Smart Contract Deployment Stats
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+/**
+ * @title VishalPrabhu
+ * @dev A developer contract that never stops learning
+ */
+contract VishalPrabhu {
+    mapping(string => uint256) public skills;
+    mapping(address => bool) public collaborators;
+    
+    constructor() {
+        skills["Solidity"] = 85;
+        skills["React"] = 90;
+        skills["TypeScript"] = 88;
+        skills["DeFi"] = 75;
+        skills["Security"] = 80;
+    }
+    
+    function shipCode() external pure returns (string memory) {
+        return "Building the decentralized future, one commit at a time! 🚀";
+    }
+}
+```
+
+<div align="center">
+
+**📈 Contract Deployments:** 15+ Testnets | **🔥 Gas Saved:** 1.2M+ units | **🛡️ Audits Passed:** 5/5
+
+</div>
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000000)](https://portfolio-new-seven-jade.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/vishal_7707)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/vishal-prabhu-130b1a323/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:vishalpeace07@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com)
+
+**💬 Let's build the future together!** Always open to:
+- 🤝 Web3 collaborations & hackathons
+- 🎯 Smart contract reviews & audits  
+- 📚 Knowledge sharing & mentoring
+- 🚀 Innovative DeFi/NFT projects
+
+</div>
+
+---
+
+<div align="center">
+
+```typescript
+const vishal: Web3Developer = {
+  code: ["Solidity", "TypeScript", "JavaScript", "React"],
+  web3Stack: ["ethers.js", "wagmi", "Hardhat", "OpenZeppelin"],
+  askMeAbout: ["DeFi", "Smart Contracts", "DApp Architecture", "Gas Optimization"],
+  
+  technologies: {
+    blockchain: ["Ethereum", "Polygon", "Layer 2s"],
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind"],
+    backend: ["Node.js", "Express", "GraphQL", "IPFS"],
+    tools: ["Foundry", "Tenderly", "The Graph", "Alchemy"]
+  },
+  
+  currentMission: "Making Web3 accessible without compromising decentralization",
+  architecture: "Security-first, gas-efficient, user-friendly",
+  funFact: "I can debug a failed transaction faster than you can say 'revert' 😄"
+};
+
+console.log("Ready to build the decentralized future! 🚀⛓️");
+```
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" width="25" height="25" /> **"In code we trust, in blockchain we build"** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" width="25" height="25" />
+
+*⭐ From [vishal-770](https://github.com/vishal-770) - Building bridges between Web2 and Web3*
+
+</div>
