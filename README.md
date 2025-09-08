@@ -113,12 +113,13 @@ tools:
 
 <div align="center">
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-770&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-770&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-770&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-770&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal-770&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6500&currStreakLabel=00F5FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishal-770&theme=radical&hide_border=true)
 
 </div>
+
 
 ## 🏗️ System Architecture Philosophy
 
