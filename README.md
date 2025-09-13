@@ -45,7 +45,8 @@ $ cat /about/vishal.json
     "Advanced React Patterns & Concurrent Features",
     "System Design & Microservices Architecture",
     "WebAssembly & Browser APIs",
-    "DevOps & Cloud Infrastructure"
+    "DevOps & Cloud Infrastructure",
+    "Rust"
   ],
   "hobbies": ["Debugging at 3 AM", "Optimizing bundle sizes", "Writing clean code"],
   "fun_fact": "I can spot a missing semicolon from across the room",
