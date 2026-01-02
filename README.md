@@ -62,7 +62,7 @@ $ cat /about/vishal.json
 ```yaml
 languages:
   expert: ["JavaScript ES2024", "TypeScript", "HTML5", "CSS3"]
-  learning: ["Rust", "Go", "Python"]
+  learning: ["Rust", "Solidity", "Python"]
 
 frontend:
   frameworks: ["React 18", "Next.js 14", "Svelte", "Astro"]
