@@ -9,7 +9,7 @@
                   ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ 
 ```
 
-<div align="center">
+<div align="center ">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+JavaScript+Developer;React+%7C+Next.js+%7C+TypeScript+Expert;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Coding)](https://git.io/typing-svg)
 
