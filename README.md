@@ -129,10 +129,10 @@ learning:
 
 <div align="center">
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-770&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-770&layout=compact&theme=radical&hide_border=true)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-770&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-770&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishal-770&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=vishal-770&theme=radical&hide_border=true)
 
 </div>
 
