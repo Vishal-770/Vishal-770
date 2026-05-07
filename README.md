@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=650&lines=Fullstack+Dev+%7C+Web3+Builder;TypeScript+%2B+Rust+%2B+Solana;Cross-chain+infra+%26+DeFi+tooling;Always+shipping.+Always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=650&lines=Fullstack+Dev+%7C+Web3+Builder;TypeScript+%2B+Rust+%2B+Solana;Always+shipping.+Always+learning.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vishal-770&color=14f195&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/vishal-770?style=flat-square&color=14f195)
@@ -229,8 +229,6 @@ $ git log --oneline --graph --decorate --all
 
 ---
 
-<div align="center">
-
 ```typescript
 const vishal = {
   code:       ["TypeScript", "JavaScript", "Python", "Rust*"],
@@ -243,6 +241,8 @@ const vishal = {
 };
 // * = actively going deep
 ```
+
+<div align="center">
 
 **💬 `"Write code that doesn't just work, but tells a story."`**
 
