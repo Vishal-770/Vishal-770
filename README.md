@@ -9,106 +9,121 @@
                   ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ 
 ```
 
-<div align="center " >
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+JavaScript+Developer;React+%7C+Next.js+%7C+TypeScript+Expert;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=650&lines=Fullstack+Dev+%7C+Web3+Builder;TypeScript+%2B+Rust+%2B+Solana;Cross-chain+infra+%26+DeFi+tooling;Always+shipping.+Always+learning.)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vishal-770&color=00f5ff&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/vishal-770?style=flat-square&color=00f5ff)
-![Twitter Follow](https://img.shields.io/twitter/follow/vishal_7707?style=flat-square&color=00f5ff)
+![Profile Views](https://komarev.com/ghpvc/?username=vishal-770&color=14f195&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/vishal-770?style=flat-square&color=14f195)
+![Twitter Follow](https://img.shields.io/twitter/follow/vishal_7707?style=flat-square&color=14f195)
 
 </div>
+
+---
 
 ## 🧑‍💻 whoami
 
 ```bash
-$ cat /about/vishal.json
+$ cat /dev/vishal.json
 ```
 
 ```json
 {
   "name": "Vishal Prabhu",
-  "location": "India 🇮🇳",
-  "role": "Frontend Developer & JavaScript Architect",
-  "current_status": "Building the next generation of web apps",
-  "code_editor": "VS Code with Vim keybindings",
-  "favorite_language": "TypeScript (JavaScript with superpowers)",
-  "architecture": "Clean, Scalable, Maintainable",
-  "methodology": ["DDD", "TDD", "Clean Architecture", "SOLID Principles"],
+  "location": "Chennai, India 🇮🇳",
+  "role": "Fullstack Developer & Web3 Builder",
+  "current_status": "Shipping scalable web apps & going deep on Rust + Solana",
+  "code_editor": "VS Code",
+  "favorite_language": "TypeScript (but Rust is calling)",
   "currently_working_on": [
-    "🚀 Modern React applications with Next.js 14",
-    "🏗️ Building scalable component architectures",
-    "⚡ Performance optimization & Core Web Vitals",
-    "🎨 Design systems & developer experience"
+    "⚡  Scalable fullstack apps with Next.js + Nest.js",
+    "🦀  Rust — ownership, lifetimes, async",
+    "☀️  Solana — learning on-chain programs",
+    "🔁  Exploring crypto & DeFi primitives"
   ],
   "learning": [
-    "Advanced React Patterns & Concurrent Features",
-    "System Design & Microservices Architecture",
-    "WebAssembly & Browser APIs",
-    "DevOps & Cloud Infrastructure",
-    "Rust"
+    "Rust → systems programming + Solana programs",
+    "Solana → Anchor, PDAs, SPL tokens",
+    "Crypto/DeFi → protocols, tokenomics, cross-chain"
   ],
-  "hobbies": ["Debugging at 3 AM", "Optimizing bundle sizes", "Writing clean code"],
-  "fun_fact": "I can spot a missing semicolon from across the room",
   "motto": "Write code that doesn't just work, but tells a story"
 }
 ```
 
+---
+
 ## 🛠️ Tech Arsenal
 
 <details>
-<summary>🎯 <strong>Primary Stack</strong> (Click to expand)</summary>
+<summary>🎯 <strong>Full Stack</strong> (click to expand)</summary>
 
 ```yaml
 languages:
-  expert: ["JavaScript ES2024", "TypeScript", "HTML5", "CSS3"]
-  learning: ["Rust", "Solidity", "Python"]
+  fluent:   ["TypeScript", "JavaScript", "Java", "C", "C++", "Python"]
+  learning: ["Rust", "Solidity"]
 
 frontend:
-  frameworks: ["React 18", "Next.js 14", "Svelte", "Astro"]
-  styling: ["Tailwind CSS", "Styled Components", "CSS Modules", "Sass"]
-  ui_libraries: ["shadcn/ui", "Radix UI", "Headless UI", "Framer Motion"]
-  state_management: ["Zustand", "Redux Toolkit", "TanStack Query", "SWR"]
-  
+  frameworks: ["React.js", "Next.js", "Electron.js", "Tauri"]
+  styling:    ["Tailwind CSS"]
+
 backend:
-  runtime: ["Node.js", "Deno", "Bun"]
-  frameworks: ["Express.js", "Fastify", "Hono", "Nest.js"]
-  databases: ["MongoDB", "PostgreSQL", "Supabase", "PlanetScale"]
-  apis: ["REST", "GraphQL", "tRPC", "WebSockets"]
+  runtime:    ["Node.js"]
+  frameworks: ["Nest.js", "Express.js"]
+  databases:  ["PostgreSQL", "MongoDB"]
+  orm:        ["Drizzle ORM", "Mongoose"]
+  apis:       ["REST", "GraphQL", "WebSockets"]
 
 tools:
-  editors: ["VS Code", "Neovim"]
-  terminals: ["Warp", "Hyper", "iTerm2"]
-  version_control: ["Git", "GitHub Actions", "Conventional Commits"]
-  package_managers: ["pnpm", "npm", "yarn"]
-  bundlers: ["Vite", "Webpack", "Turbopack", "esbuild"]
-  testing: ["Vitest", "Jest", "Playwright", "Cypress"]
-  deployment: ["Vercel", "Railway", "Fly.io", "Docker"]
+  devops: ["Git", "Docker", "AWS", "Vercel", "CI/CD"]
+  other:  ["SEO", "GraphQL", "WebSockets"]
+
+learning:
+  - "Rust — ownership, traits, async/await"
+  - "Solana — on-chain programs, Anchor"
+  - "Crypto/DeFi — protocols & tokenomics"
 ```
 
 </details>
 
 <div align="center">
 
-### 💻 Languages & Technologies
+### 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### ⚙️ Frameworks & Runtimes
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### ⚡ Development Tools
+### 🗄️ Databases & ORM
 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logoColor=black)
+
+### ⚙️ Tools & Infra
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -121,62 +136,71 @@ tools:
 
 </div>
 
+---
 
-## 🏗️ System Architecture Philosophy
+## 🏗️ How I Think About Software
 
 ```mermaid
 graph TB
     A[🎯 Clean Code] --> B[📖 Readable]
     A --> C[🔧 Maintainable]
     A --> D[🧪 Testable]
-    
+
     E[⚡ Performance] --> F[🚀 Fast Loading]
     E --> G[📦 Optimized Bundles]
     E --> H[♿ Accessible]
-    
+
     I[🛡️ Scalable] --> J[🏗️ Modular Design]
     I --> K[🔄 Reusable Components]
     I --> L[📊 Monitoring]
-    
+
     A --> M[💎 Quality Software]
     E --> M
     I --> M
-    
-    style A fill:#00f5ff,stroke:#0088cc,stroke-width:2px
-    style E fill:#ff6500,stroke:#cc4400,stroke-width:2px
-    style I fill:#32cd32,stroke:#228b22,stroke-width:2px
-    style M fill:#8a2be2,stroke:#6a1b9a,stroke-width:2px
+
+    style A fill:#14F195,stroke:#0aab66,stroke-width:2px,color:#000
+    style E fill:#9945FF,stroke:#6a1b9a,stroke-width:2px,color:#fff
+    style I fill:#CE422B,stroke:#8b1a0a,stroke-width:2px,color:#fff
+    style M fill:#F7DF1E,stroke:#c4a000,stroke-width:2px,color:#000
 ```
 
-## 🚀 What I'm Building
+---
 
-```typescript
-interface CurrentProjects {
-  personal: {
-    "portfolio-v3": {
-      stack: ["Next.js 14", "TypeScript", "Framer Motion", "MDX"];
-      status: "🚧 In Progress";
-      features: ["Blog with MDX", "Project Showcase", "Dark Mode"];
-    };
-    "component-library": {
-      stack: ["React", "TypeScript", "Storybook", "Rollup"];
-      status: "📦 Publishing Soon";
-      description: "Reusable UI components for rapid development";
-    };
-  };
-  
-  learning: {
-    "system-design": "📚 Studying distributed systems & microservices",
-    "web-performance": "⚡ Deep diving into Core Web Vitals optimization",
-    "rust": "🦀 Exploring systems programming with Rust"
-  };
-  
-  contributing: {
-    "open-source": "🌟 Contributing to React ecosystem packages",
-    "writing": "✍️ Technical articles on modern web development"
-  };
-}
-```
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**🦀 Rust + Solana**
+- Ownership & borrow checker
+- Async Rust patterns
+- Solana on-chain programs
+- Anchor framework & PDAs
+
+</td>
+<td valign="top" width="33%">
+
+**🔁 Crypto / DeFi**
+- AMM mechanics
+- DeFi protocol design
+- Tokenomics & cross-chain
+- Privacy-preserving primitives
+
+</td>
+<td valign="top" width="33%">
+
+**🏗️ Fullstack Architecture**
+- Scalable Next.js + Nest.js
+- Drizzle ORM + Postgres
+- Desktop apps w/ Electron/Tauri
+- WebSocket real-time systems
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📈 Coding Activity
 
@@ -186,49 +210,17 @@ $ git log --oneline --graph --decorate --all
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-770&theme=react-dark&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-770&theme=react-dark&bg_color=0D1117&color=14F195&line=14F195&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-## 🎯 Current Focus Areas
+---
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**🔥 Frontend Excellence**
-- Modern React patterns & hooks
-- Next.js App Router mastery
-- TypeScript best practices
-- Component architecture & design systems
-
-</td>
-<td valign="top" width="33%">
-
-**⚡ Performance & UX**
-- Core Web Vitals optimization
-- Bundle size analysis & reduction
-- Accessibility (WCAG 2.1 AA)
-- Progressive Web Apps
-
-</td>
-<td valign="top" width="33%">
-
-**🏗️ System Design**
-- Scalable frontend architectures
-- Micro-frontends exploration
-- CI/CD pipeline optimization
-- Testing strategies & automation
-
-</td>
-</tr>
-</table>
-
-## 🌐 Let's Connect
+## 🌐 Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vishaldev.space/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=14F195)](https://vishaldev.space/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishal_7707)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-prabhu-130b1a323/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalpeace07@gmail.com)
@@ -239,21 +231,20 @@ $ git log --oneline --graph --decorate --all
 
 <div align="center">
 
-```javascript
+```typescript
 const vishal = {
-  code: ["JavaScript", "TypeScript", "React", "Node.js"],
-  askMeAbout: ["Web Development", "Frontend Architecture", "React", "Performance"],
-  technologies: {
-    frontEnd: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backEnd: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-    tools: ["Git", "Docker", "VS Code", "Figma"]
-  },
-  currentChallenge: "Building scalable and performant web applications",
-  funFact: "I debug faster with console.log than with debuggers 🚀"
+  code:       ["TypeScript", "JavaScript", "Python", "Rust*"],
+  frameworks: ["Next.js", "React", "Nest.js", "Electron", "Tauri"],
+  databases:  ["PostgreSQL", "MongoDB", "Drizzle ORM"],
+  tools:      ["Docker", "AWS", "Vercel", "Git", "GraphQL", "WebSockets"],
+  learning:   ["Rust", "Solana", "Crypto/DeFi"],
+  askMeAbout: ["Next.js", "Node.js", "TypeScript", "fullstack architecture"],
+  funFact:    "I debug faster with console.log than with debuggers 🚀",
 };
+// * = actively going deep
 ```
 
-**💬 "Clean code always looks like it was written by someone who cares."**
+**💬 `"Write code that doesn't just work, but tells a story."`**
 
 *⭐ From [vishal-770](https://github.com/vishal-770)*
 
