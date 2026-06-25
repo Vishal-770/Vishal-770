@@ -1,6 +1,6 @@
 # Vishal Prabhu
 
-**Software Engineer**
+
 
 <div align="center">
 
