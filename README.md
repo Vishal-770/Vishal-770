@@ -1,7 +1,5 @@
 # Vishal Prabhu
 
-
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=650&lines=Software+Engineer;TypeScript+%2B+Rust+%2B+Solana;Building+scalable+software.)](https://git.io/typing-svg)
@@ -59,7 +57,14 @@ I'm a software engineer focused on building reliable, well-architected systems �
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-**Working Knowledge:** REST APIs · WebSockets · CI/CD · SEO · Foundry · Solana
+**Working Knowledge**
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
 
 ---
 
