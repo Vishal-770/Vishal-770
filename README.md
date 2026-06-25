@@ -82,7 +82,7 @@ I'm a software engineer focused on building reliable, well-architected systems â
 <div align="center">
 
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-770&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-770&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vishal-770&theme=radical&hide_border=true)
 
