@@ -1,14 +1,14 @@
 # Vishal Prabhu
 
-### Software Engineer
+**Software Engineer**
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=650&lines=Software+Engineer;TypeScript+%2B+Rust+%2B+Solana;Building+scalable+software.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=650&lines=Software+Engineer;TypeScript+%2B+Rust+%2B+Solana;Building+scalable+software.)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=14F195)](https://vishaldev.space/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-prabhu-130b1a323/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishal_7707)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vishalp_exe)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalpeace07@gmail.com)
 
 </div>
