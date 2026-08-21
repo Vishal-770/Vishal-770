@@ -1,4 +1,4 @@
-# vishal prabhu
+# Vishal Prabhu
 
 ```rust
 loop {
@@ -24,7 +24,7 @@ possibly a skill issue. possibly not.
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/portfolio-vishaldev.space-blue?style=social&logo=vercel)](https://vishaldev.space)
-[![LinkedIn](https://img.shields.io/badge/linkedin-vishal--prabhu-blue?style=social&logo=linkedin)](https://linkedin.com/in/vishal-prabhu-130b1a323)
-[![X](https://img.shields.io/badge/x-vishalp__exe-blue?style=social&logo=x)](https://x.com/vishalp_exe)
-[![Email](https://img.shields.io/badge/mail-vishalpeace07-blue?style=social&logo=gmail)](mailto:vishalpeace07@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge)](https://vishaldev.space)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge)](https://linkedin.com/in/vishal-prabhu-130b1a323)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge)](https://x.com/vishalp_exe)
+[![Email](https://img.shields.io/badge/MAIL-D14836?style=for-the-badge)](mailto:vishalpeace07@gmail.com)
